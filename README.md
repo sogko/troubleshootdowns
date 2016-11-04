@@ -4,8 +4,9 @@ Journal of historic dogfights, 36-hours debugging marathons and high-noon troubl
 
 ![troubleshootdowns](http://i.giphy.com/l0HlHp2aBxnKirj3O.gif)
 
-# What is this?
+## What is this?
 
+<br>
 Sometimes, some things just choose to stop to work. 
 
 `But it was fine just now`, you keep telling yourself.
@@ -20,13 +21,23 @@ Your terminal continues to flip you off. _Rude._
 
 You start to doubt your very sanity.
 
-# And?
+<br>
+## And?
 
 Felt the desire to keep a scrapbooks of sort for obscure solutions to miscellaneous miscellaneous.
 
-Especially those that are not often-documented.
+Especially those that are not often-documented.<br/>Here, you will find useful error logs for your favourite searchbot to nomnom on.
 
 Hope this help with your nightless googling and stackoverflowing.
 
 ## Why?
 Why not.
+
+## How?
+Head over to [Issues](https://github.com/sogko/troubleshootdowns/issues) and peruse away.
+
+## Can I?
+Yeah, you definitely can. Just open an issue and be as descriptive as you can. (I insist.)
+
+## Are you?
+Nope, this is kinda like therapy, I guess.
