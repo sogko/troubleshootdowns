@@ -26,7 +26,9 @@ You start to doubt your very sanity.
 
 Felt the desire to keep a scrapbooks of sort for obscure solutions to miscellaneous miscellaneous.
 
-Especially those that are not often-documented.<br/>Here, you will find useful error logs for your favourite searchbot to nomnom on.
+Especially those that are not often-documented.<br/>Here, you will find plenty of useful error logs for your favourite searchbot to nomnom on.
+
+Having it as a Github issue would probably rank better than a standalone blog article, I dunno.
 
 Hope this help with your nightless googling and stackoverflowing.
 
@@ -35,6 +37,9 @@ Why not.
 
 ## How?
 Head over to [Issues](https://github.com/sogko/troubleshootdowns/issues) and peruse away.
+
+## It did!
+If this, thing, help you out in some way, feel free to tell others about it.
 
 ## Can I?
 Yeah, you definitely can. Just open an issue and be as descriptive as you can. (I insist.)
