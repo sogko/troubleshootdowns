@@ -7,7 +7,7 @@ Journal of historic dogfights, 36-hours debugging marathons and high-noon troubl
 ## What is this?
 
 <br>
-Sometimes, some things just choose to stop to work. 
+Sometimes, some things just choose to stop working. 
 
 `But it was fine just now`, you keep telling yourself.
 
@@ -38,6 +38,8 @@ Head over to [Issues](https://github.com/sogko/troubleshootdowns/issues) and per
 
 ## Can I?
 Yeah, you definitely can. Just open an issue and be as descriptive as you can. (I insist.)
+
+_Want repo access? Lemme know. I feel generous._
 
 ## Are you?
 Nope, this is kinda like therapy, I guess.
